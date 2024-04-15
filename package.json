@@ -1,6 +1,6 @@
 {
   "name": "k-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Thousand to k Converter is a lightweight npm package designed to simplify the conversion of large numbers to k-metric notation. With this package, you can effortlessly convert numerical values from the thousands to the k-metric system, providing clarity and brevity in your applications. Whether you're working with financial data, statistical analysis, or any other domain requiring concise numerical representation, Thousand to k Converter offers an intuitive solution. Simplify your code and enhance readability with this versatile utility.",
   "main": "index.js",
   "scripts": {
