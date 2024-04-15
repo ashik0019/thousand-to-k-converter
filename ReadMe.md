@@ -3,15 +3,15 @@
 ## Install
 
 ```sh
-npm i k-convert
+npm i k-converter
 ```
 
 ## Usage
 
 ```sh
-const kconvert = require("k-convert");
+const kconvert = require("k-converter");
 //or
-import kconvert from 'k-convert';
+import kconvert from 'k-converter';
 ```
 
 And then, you are able to convert float numbers to the k-metric:
