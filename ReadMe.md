@@ -14,14 +14,14 @@ const kconvert = require("k-converter");
 import kconvert from 'k-converter';
 ```
 
-And then, you are able to convert float numbers to the k-metric:
+And with this capability, you're able to seamlessly translate float numbers into the K-metric, enhancing clarity and precision.
 
 ```javascript
 kconvert.convertTo(100500);
 //'10.5k'
 ```
 
-Or convert strings using the k-metric to float numbers:
+Additionally, it empowers you to effortlessly convert strings using the K-metric into float numbers, streamlining data interpretation and analysis.
 
 ```javascript
 kconvert.convertFrom("50.2k");
